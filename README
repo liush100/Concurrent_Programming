@@ -1,0 +1,2 @@
+number 2 :
+  Unix C, copy input.txt to buffer, then to output.txt, use Semaphores to implement producer and consumer for buffer synchronized access.
